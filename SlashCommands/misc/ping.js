@@ -16,8 +16,8 @@ module.exports = {
         const pingembed = new MessageEmbed()
         .setColor("#2f3136")
         .setDescription(`client.ws.ping(${client.ws.ping})`)
-        .setFooter(`Pelt#7537`)
+        .setFooter(`Window#7537`)
         
-        interaction.followUp({ embeds: [pingembed] });
+        interaction.reply({ embeds: [pingembed] });
     },
 };
