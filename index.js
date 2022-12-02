@@ -4,7 +4,6 @@ const client = new Client({
     intents: 32767,
 });
 const { token } = require("./secrets/config.json");
-const { default: mongoose } = require("mongoose");
 
 module.exports = client
 
