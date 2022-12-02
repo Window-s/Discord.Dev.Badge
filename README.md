@@ -11,3 +11,7 @@ You do not need to know how to code but this is a great start.
 <li>Node.js</li>
 <li>Discord Account</li>
 </ul>
+
+<h3>Tutorial</h3>
+
+There will be a tutorial video posted shortly but in the mean time, idk.
