@@ -1,7 +1,7 @@
 const { glob } = require("glob");
 const { promisify } = require("util");
 const { Client } = require("discord.js");
-const guilds = ["1023368945442496532"];
+const guilds = ["GUILD_ID"];
 const globPromise = promisify(glob);
 
 /**
